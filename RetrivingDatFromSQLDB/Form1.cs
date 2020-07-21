@@ -22,6 +22,9 @@ namespace RetrivingDatFromSQLDB
 
         int Age;
 
+        /// <summary>
+        /// dqnicjdaco
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
